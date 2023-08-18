@@ -1,0 +1,13 @@
+C:\Users\herib\Desktop\el doc\el doc\bin\Debug\el doc.exe.config
+C:\Users\herib\Desktop\el doc\el doc\bin\Debug\el doc.exe
+C:\Users\herib\Desktop\el doc\el doc\bin\Debug\el doc.pdb
+C:\Users\herib\Desktop\el doc\el doc\bin\Debug\el doc.xml
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el doc.vbproj.AssemblyReference.cache
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el doc.vbproj.SuggestedBindingRedirects.cache
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el_doc.Form1.resources
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el_doc.Resources.resources
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el doc.vbproj.GenerateResource.cache
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el doc.vbproj.CoreCompileInputs.cache
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el doc.exe
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el doc.xml
+C:\Users\herib\Desktop\el doc\el doc\obj\Debug\el doc.pdb
